@@ -12,3 +12,4 @@ https://www.instructables.com/Arduino-Intelligent-Brake-Light/
 
 
 Intro 
+In this project we use a distant sensor this will set off the Piezo, also we have the Photoresistor to automatically turn on at night. 
