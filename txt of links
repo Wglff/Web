@@ -13,3 +13,12 @@ https://www.instructables.com/Arduino-Intelligent-Brake-Light/
 
 Intro 
 In this project we use a distant sensor this will set off the Piezo, also we have the Photoresistor to automatically turn on at night. 
+
+Requirement Analysis
+It needs to light up when the wheel stops, so the LED turns on, also it will help to alert others that there’s someone near them. 
+We have to test it on a wheel to know if the magnets can detect when the bike it’s stopped.
+Some things that will make it harder to finish:
+-	If the magnets detect the reed switch so the LED can turn on
+-	There might be a lot of wires 
+-	Some materials might not be available
+-	The time could be a problem to finish it 
